@@ -46,7 +46,7 @@ Follow these steps to set up the project on your local machine.
 
 ```sh
 gh repo clone chinnivamshi/MS-Hackthon-MEDBOT
-cd medbot-ai
+cd MERN-AI-ChatBot-final
 2. Install Dependencies
 Backend
 sh
