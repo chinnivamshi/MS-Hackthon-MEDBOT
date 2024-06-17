@@ -3,7 +3,7 @@ Built a chatbot capable of diagnosing common medical conditions based on user sy
 
 ## Built By(Please feel free to contact in case of issues)
 Chinni Vamshi Krushna(f20212084@hyderabad.bits-pilani.ac.in)
-Rishabh Mittal(rishabhmittal7781@gmail.com)
+Rishabh Mittal(rishabhmittal7781@gmail.com/f20212084@hyderabad.bits-pilani.ac.in)
 
 ## Tutorial at- 
 # MEDBOT-AI
