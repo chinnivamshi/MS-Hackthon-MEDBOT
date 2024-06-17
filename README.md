@@ -6,7 +6,7 @@ Chinni Vamshi Krushna(f20212084@hyderabad.bits-pilani.ac.in)
 Rishabh Mittal(rishabhmittal7781@gmail.com  or f20212084@hyderabad.bits-pilani.ac.in)
 
 ## NOTE- 
-During signup please make sure to have "unique Email id" every time and "Password is of length 6" and "Name" is necessarily filled!!!
+During signup please make sure to have "unique Email id" every time, "Password is of length 6",  "Name", "contact number", "Emergency contact number" is necessarily filled!!!
 
 ## Tutorial at- 
 # MEDBOT-AI
