@@ -1,10 +1,11 @@
 # MS-Hackthon-MEDBOT
 Built a chatbot capable of diagnosing common medical conditions based on user symptoms input. Utilizes machine learning models trained on medical data to provide accurate suggestions and recommendations for further action.
-##Built by
-Chinni Vamshi Krushna
-Rishabh Mittal
 
-##Running tutorial
+## Built By(Please feel free to contact in case of issues)
+Chinni Vamshi Krushna(f20212084@hyderabad.bits-pilani.ac.in)
+Rishabh Mittal(rishabhmittal7781@gmail.com)
+
+## Tutorial at- 
 # MEDBOT-AI
 
 MEDBOT-AI is a full-stack medical chatbot application that provides users with general health advice, symptom checking, mental health support, medication reminders, and more. It includes a backend server for handling API requests and a frontend client for user interaction.
@@ -49,7 +50,9 @@ sh
 Copy code
 cd backend
 npm install
-below installations if facing any problem further
+
+!!!below installations if facing any problem further-
+
 npm install @google/generative-ai
 npm install @langchain/google-genai
 npm install axios
@@ -69,12 +72,15 @@ npm install morgan
 npm install node-cron
 npm install openai
 npm install twilio
+
+
 Frontend
 sh
 Copy code
 cd ../frontend
 npm install
-below installations if facing any problem further
+
+!!!below installations if facing any problem further
 npm install @emotion/react
 npm install @emotion/styled
 npm install @mui/icons-material
@@ -141,9 +147,12 @@ Node.js
 Express.js
 MongoDB
 TypeScript
+LANGCHAIN
 JWT (JSON Web Tokens) for authentication
 Twilio for SMS notifications
-OpenAI API for chatbot functionality
+GEMINI API(u can use any other too) for chatbot functionality
+HERE API for location and hospital data fetching
+
 Frontend:
 
 React
