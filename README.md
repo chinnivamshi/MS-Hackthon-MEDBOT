@@ -8,7 +8,7 @@ Rishabh Mittal(rishabhmittal7781@gmail.com  or f20212084@hyderabad.bits-pilani.a
 ## NOTE- 
 During signup please make sure to have "unique Email id" every time, "Password is of length 6",  "Name", "contact number", "Emergency contact number" is necessarily filled!!!
 
-## Tutorial at- 
+## Tutorial at- https://youtu.be/tI1Z8tIVIuE?si=vq16jC1R-Owrsq9R
 # MEDBOT-AI
 
 MEDBOT-AI is a full-stack medical chatbot application that provides users with general health advice, symptom checking, mental health support, medication reminders, and more. It includes a backend server for handling API requests and a frontend client for user interaction.
